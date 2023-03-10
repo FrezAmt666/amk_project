@@ -1,0 +1,17 @@
+{
+    "name": "amt/app",
+    "autoload": {
+        "psr-4": {
+            "Amt\\App\\": "src/Libs"
+        }
+    },
+    "authors": [
+        {
+            "name": "FrezAmt666",
+            "email": "aungmyatthu20031@gmail.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.21"
+    }
+}

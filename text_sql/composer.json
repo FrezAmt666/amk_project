@@ -1,0 +1,15 @@
+{
+    "name": "sql/app",
+    "autoload": {
+        "psr-4": {
+            "Sql\\App\\": "src/Libs/"
+        }
+    },
+    "authors": [
+        {
+            "name": "FrezAmt666",
+            "email": "aungmyatthu20031@gmail.com"
+        }
+    ],
+    "require": {}
+}
